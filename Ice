@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>เว็บสุ่ม Free Fire</title>
+  </head>
+  <body>
+    <h1>ยินดีต้อนรับสู่เว็บสุ่ม Free Fire</h1>
+    <p>เว็บนี้เป็นตัวอย่างเท่านั้น ไม่มีการสุ่มจริง</p>
+  </body>
+</html>
